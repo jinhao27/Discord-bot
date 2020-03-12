@@ -5,7 +5,7 @@ This is the source code for a discord bot I programmed for a discord channel my 
 My Junior Achievement company needed a way to manage our discord server, whether it be moderation, sending announcements, engaging with users, setting rules, and setting roles. A discord bot programmed from scratch that could be customized specifically to cater towards these needs was exactly what we needed, and that's what this is :)
 
 # Screenshots 
-![example](https://ibb.co/GVbJfwc)
+![example](eg4.png)
 ![example](https://ibb.co/2Fcy1zM)
 ![example](https://ibb.co/XFz1G2x)
 ![example](https://ibb.co/9ZhVCV6)
