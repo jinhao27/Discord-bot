@@ -6,7 +6,7 @@ My Junior Achievement company needed a way to manage our discord server, whether
 
 # Screenshots 
 ![example](eg4.png)
-![example](C:\Users\Jinhao\Desktop\eg1.PNG)
+![example](C:\Users\Jinhao\Desktop\eg1.PNG?raw=true "Title")
 ![example](https://ibb.co/XFz1G2x)
 ![example](https://ibb.co/9ZhVCV6)
 
